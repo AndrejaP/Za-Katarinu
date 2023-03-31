@@ -19,42 +19,42 @@ var obj = {
     '  Lettuce, carrots,',
     ' Avocado, tomato,',
     ' Olives, spring onions,',
-		' Sprouts, onions,',
-		' Rocket, peppers,',
-		' Lettuce, basil,'
-		],
-	noun: [
-		' potato salad,',
-		' pumpkin, mushrooms,',
-		' garlic, chick peas,',
-		' beans, ',
-		' lentils,',
-		' integral rice and peas, '
+    ' Sprouts, onions,',
+    ' Rocket, peppers,',
+    ' Lettuce, basil,'
 	],
-	noun2: [
-		' apples and strawberries.',
-		' pineapple and plums.',
-		' pear and blueberries.',
-		' orange and pomagranate.',
-		' grapes and grapefruit.',
-		' sweet potatoes and sauerkraut.'
-		],
-	verb: [
-		' For dessert',
-		' And finally, ',
-		' And if I feel like it',
-		' At the end a little bit of',
-		' To finish the meal,',
-		' And as a cherry on the cake,'
+noun: [
+	' potato salad,',
+	' pumpkin, mushrooms,',
+	' garlic, chick peas,',
+	' beans, ',
+	' lentils,',
+	' integral rice and peas, '
+],
+noun2: [
+	' apples and strawberries.',
+	' pineapple and plums.',
+	' pear and blueberries.',
+	' orange and pomagranate.',
+	' grapes and grapefruit.',
+	' sweet potatoes and sauerkraut.'
 	],
-	abstract:[
-		' oats with blueberries and wallnuts.',
-		' a bit of peanut butter.',
-		' sex.',
-		' yoga.',
-		' meditation.',
-		' zumba.'
-  ]
+verb: [
+	' For dessert',
+	' And finally, ',
+	' And if I feel like it,',
+	' At the end a little bit of',
+	' To finish the meal,',
+	' And as a cherry on the cake,'
+],
+abstract:[
+	' oats with blueberries and wallnuts.',
+	' a bit of peanut butter.',
+	' sex.',
+	' yoga.',
+	' meditation.',
+	' zumba.'
+]
 }
 
 function randomizeText(part) {
