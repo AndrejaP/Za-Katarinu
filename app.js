@@ -1,59 +1,59 @@
 var obj = {
   adjTimeplace: [
-    'Mirko ',
-    'Toma ',
-    'Mama ',
-		'Baka kod sebe doma ',
-    'Tata ',
-		'Mate '
+    'Broccoli ',
+    'Kale ',
+    'Swiss Chard ',
+	'Spinach ',
+    'Cauliflower ',
+	'Asparagus '
   ],
   timeplace: [
-    'pere',
-    'usisava',
-    'posprema',
-    'pomaže tati oprati',
-		'pomaže mami pospremiti',
-		'slaže'
+    'with guacamole.',
+    'and a salad.',
+    'and a salad.',
+    'in a smoothie.',
+	'in a smoothie.',
+	'in a wok.'
   ],
   adjective: [
-    ' suđe',
-    ' igračke',
-    ' sve tepihe',
-		' samog sebe',
-		' cijeli stan',
-		' svoju sobu'
+    '  Lettuce, carrots,',
+    ' Avocado, tomato,',
+    ' Olives, spring onions,',
+		' Sprouts, onions,',
+		' Rocket, peppers,',
+		' Lettuce, basil,'
 		],
 	noun: [
-		' i za nagradu',
-		' i za kaznu',
-		' i pritom veselo',
-		' i punih 30 minuta',
-		' i dva puta',
-		' i bez riječi'
+		' potato salad,',
+		' pumpkin, mushrooms,',
+		' garlic, chick peas,',
+		' beans, ',
+		' lentils,',
+		' integral rice and peas, '
 	],
 	noun2: [
-		' pijeva',
-		' pojede slatkiš',
-		' obriše prašinu',
-		' pojede nešto zeleno',
-		' mami izmasira ramena',
-		' da po dve puse braći'
+		' apples and strawberries.',
+		' pineapple and plums.',
+		' pear and blueberries.',
+		' orange and pomagranate.',
+		' grapes and grapefruit.',
+		' sweet potatoes and sauerkraut.'
 		],
 	verb: [
-		' i posloži',
-		' i pročita',
-		' i odpijeva',
-		' i pogleda',
-		' i posudi svakome u obitelji',
-		' i nacrta'
+		' For dessert',
+		' And finally, ',
+		' And if I feel like it',
+		' At the end a little bit of',
+		' To finish the meal,',
+		' And as a cherry on the cake,'
 	],
 	abstract:[
-		' svoju odjeću.',
-		' priču.',
-		' nešto ljepo.',
-		' svoj najdraži predmet.',
-		' nešto plavo.',
-		' najdražu pijesmu.'
+		' oats with blueberries and wallnuts.',
+		' a bit of peanut butter.',
+		' sex.',
+		' yoga.',
+		' meditation.',
+		' zumba.'
   ]
 }
 
