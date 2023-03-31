@@ -1,47 +1,49 @@
 body {
-	color: yellowgreen;
+	color: rgb(252, 255, 247);
 	font-family: 'Love Ya Like A Sister', cursive;
-	background: #555;
+	background: rgb(46, 45, 45);
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
 	font-size: 24px;
+	background-image: url("VegPattern.png")
 }
+
 .container {
-	height: 100vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: space-around;
+	margin-top: 120px;
+	text-align: center;
 }
+
 h1 {
-	color: dodgerblue;
+	color: rgb(54, 153, 252);
+	font-size: 64px;
+	text-align: center;
+	line-height: 0.9;
 }
+
 button {
-	background-color: dodgerblue;
-	border: 3px solid dodgerblue;
-	border-radius: 50%;
+	background-color: rgb(54, 153, 252);
+	border-radius: 3%;
 	color: white;
-	width: 300px;
-	height: 100px;
+	margin-top: 50px;
+	width: 240px;
+	height: 90px;
 	font-family: 'Love Ya Like A Sister', cursive;
 	font-size: 36px;
 	outline: none;
-	transition: 0.8s
+	transition: 0.8s;
+	font-size: 22px;
+}
 
-}
 button:hover {
-	background-color: aquamarine;
+    background-color: rgb(113, 154, 31);	
 	cursor: pointer;
-	color: royalblue;
+	color: white;
+	box-shadow: 10px;
 }
-a {
-	text-decoration: none;
-	color: palevioletred;
-	font-size: 16px;
-	transition: 1s;
-}
-a:hover {
-  color: pink;
-}
+
 
